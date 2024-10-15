@@ -1,0 +1,5 @@
+.grid-box{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: 20vh 60vh 20vh;
+}
